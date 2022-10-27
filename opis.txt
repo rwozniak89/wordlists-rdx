@@ -1,0 +1,9 @@
+pl.txt ...polish-dictionary-master
+sjp-20130802.txt ...msc-master -Scrabble
+pl_PL.dic ...jetbrains-polish-dictionary-master
+Polish.dic ...Dictionaries-master
+polish-diceware.wordlist.utf8.txt ...Strongbox-master
+10-million-password-list-top-10000.txt ...Strongbox-master
+first.names.us.txt ...Strongbox-master
+surnames.us.txt ...Strongbox-master
+wordlist_pl.txt ...wordlist_pl
